@@ -52,15 +52,3 @@ El proyecto sigue una estructura limpia organizada por capas:
 - `viewmodel/`: Lógica y gestión del estado de la pantalla.
 
 - `theme/`: Configuración de colores, tipografía .
-
-
-
-## 🚀 Instalación y Uso
-
-
-
-1. **Clonar el repositorio:**
-
-```bash
-
-git clone [https://github.com/tu-usuario/delta-v.git](https://github.com/tu-usuario/delta-v.git)
